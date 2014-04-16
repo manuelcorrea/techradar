@@ -81,15 +81,18 @@ var radar_data = [
             {"name":"ASP.Net MVC", "pc":{"r":50,"t":70},"movement":"c"},      
             //trial
             {"name":"Chef", "pc":{"r":130,"t":20},"movement":"t"},   
+            {"name":"Vagrant", "pc":{"r":150,"t":10},"movement":"t"},   
             //assess
             {"name":"Subversion", "pc":{"r":250,"t":10},"movement":"t"},  
-            {"name":"MongoDB", "pc":{"r":230,"t":45},"movement":"t"},    
-            
+            {"name":"Proto-Buffer", "pc":{"r":200,"t":45},"movement":"c"},
+
             //hold
-            {"name":"Proto-Buffer", "pc":{"r":300,"t":45},"movement":"c"},
+            {"name":"MongoDB", "pc":{"r":310,"t":45},"movement":"t"},    
             {"name":"Apache Trief", "pc":{"r":330,"t":45},"movement":"c"},
             {"name":"Redis", "pc":{"r":300,"t":60},"movement":"c"},
-            {"name":"Memcached", "pc":{"r":330,"t":60},"movement":"c"}
+            {"name":"Memcached", "pc":{"r":330,"t":60},"movement":"c"},
+            {"name":"Code climate", "pc":{"r":315,"t":10},"movement":"c"},
+            {"name":"Ruby in a Gem", "pc":{"r":330,"t":20},"movement":"c"}
             
         ]
     },
